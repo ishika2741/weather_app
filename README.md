@@ -4,11 +4,11 @@ Simple Weather app written in HTML, CSS, and JavaScript using the APIs for fetch
 
 # Used Technologies
 
-HTML5
-CSS3
-JavaScript
+1. HTML5
+2. CSS3
+3. JavaScript
 
 # Used APIs
 
-Open Weather API
-Unsplash API
+1. Open Weather API
+2. Unsplash API
